@@ -1,5 +1,5 @@
 _repo: Heidi-Gift-Edition-_20781
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Kirk, Maria Louise
@@ -16,9 +16,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/5052
 covers:
 - cover_type: archival
-  image_path: 20781/20781-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 20781-h/images/cover.jpg
 creator:
   author:
     agent_name: Spyri, Johanna
@@ -39,6 +37,8 @@ description: "Heidi (pronounced [ˈhaɪdi]) is a work of children's fiction publ
   \ love children\" (as quoted from its subtitle).\nHeidi is one of the best-selling\
   \ books ever written and is among the best-known works of Swiss literature.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20781#Heidi-Gift-Edition-
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2007-03-09'
 gutenberg_type: Text
